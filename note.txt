@@ -1,0 +1,5 @@
+First the easy way to push your project to github you should use VsCode.
+
+Open the project in VsCode....
+Then open the terminal
+Type git init, then git add .
